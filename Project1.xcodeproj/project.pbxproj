@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3F050A5C23D518000069A589 /* PhotoCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F050A5B23D518000069A589 /* PhotoCell.swift */; };
 		3FA43E6F23A1490F005E320F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FA43E6E23A1490F005E320F /* AppDelegate.swift */; };
 		3FA43E7123A1490F005E320F /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FA43E7023A1490F005E320F /* SceneDelegate.swift */; };
 		3FA43E7323A1490F005E320F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FA43E7223A1490F005E320F /* ViewController.swift */; };
@@ -27,6 +28,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3F050A5B23D518000069A589 /* PhotoCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoCell.swift; sourceTree = "<group>"; };
 		3FA43E6B23A1490F005E320F /* Project1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Project1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3FA43E6E23A1490F005E320F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3FA43E7023A1490F005E320F /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -81,6 +83,7 @@
 				3FA43E6E23A1490F005E320F /* AppDelegate.swift */,
 				3FA43E7023A1490F005E320F /* SceneDelegate.swift */,
 				3FA43E7223A1490F005E320F /* ViewController.swift */,
+				3F050A5B23D518000069A589 /* PhotoCell.swift */,
 				3FA43E9723A29F95005E320F /* DetailViewController.swift */,
 				3FA43E7423A1490F005E320F /* Main.storyboard */,
 				3FA43E7723A14913005E320F /* Assets.xcassets */,
@@ -190,6 +193,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3FA43E7323A1490F005E320F /* ViewController.swift in Sources */,
+				3F050A5C23D518000069A589 /* PhotoCell.swift in Sources */,
 				3FA43E6F23A1490F005E320F /* AppDelegate.swift in Sources */,
 				3FA43E7123A1490F005E320F /* SceneDelegate.swift in Sources */,
 				3FA43E9823A29F95005E320F /* DetailViewController.swift in Sources */,
